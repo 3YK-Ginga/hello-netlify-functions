@@ -4,12 +4,8 @@
   "description": "",
   "main": "hello.js",
   "scripts": {
-    "dev": "netlify-lambda serve ./src --port 9001",
-    "build": "netlify-lambda build ./src"
+    "build": "echo Nothing to do."
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "netlify-lambda": "^2.0.16"
-  }
+  "license": "ISC"
 }
